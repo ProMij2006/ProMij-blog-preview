@@ -40,7 +40,7 @@ img {
     border-radius: 16px;
     text-align: left;
     border: 1px solid hsl(0, 0%, 7%);
-    box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
+    box-shadow: 7px 7px 0px hsl(0, 0%, 7%);
 }
 
 .blog-card__image {
@@ -53,7 +53,7 @@ img {
     font-weight: bold;
     width: fit-content;
     background-color: hsl(47, 88%, 63%);
-    padding: 10px 15px;
+    padding: 5px 15px;
     border-radius: 5px;
 }
 
